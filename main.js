@@ -46,10 +46,9 @@ const person = {
     age: 30,
     hobbies: ['music', 'movies', 'sports'],
     address: {
-        street: '1233 Sloan Ave',
-        city: 'Palmyra',
+        street: '50 Main St',
+        city: 'St Louis',
         state: 'MO',
-        zip: 63461
     }
 }
 
